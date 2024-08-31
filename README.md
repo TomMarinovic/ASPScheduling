@@ -2,7 +2,7 @@
 Code Basis für ein Forschungsseminar zum Thema Scheduling mit ASP
 
 Drei Programme wurden für dieses Projektseminar erstellt.
-
+Zusätzlich finden sich hier auch der Forschungsbericht und eine zugehörige Präsentation.
 ## Timefinder:
 Sucht in einer Liste von generierten Testplänen nach den 20 Testplänen mit der höchsten Ausführungszeit.
 
