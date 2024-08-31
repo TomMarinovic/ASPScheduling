@@ -1,13 +1,13 @@
 # ASPScheduling
 Code Basis für ein Forschungsseminar zum Thema Scheduling mit ASP
 
-Drei Programme wurden für dieses Projektseminar erstellt:
+Drei Programme wurden für dieses Projektseminar erstellt.
 
-#Timefinder:
+## Timefinder:
 Sucht in einer Liste von generierten Testplänen nach den 20 Testplänen mit der höchsten Ausführungszeit.
 
-#Timevisulaizer
+## Timevisulaizer:
 Stellt eine Liste von generieten Plänen als Grafik über die Zeit dar
 
-#Planvisulaizer
+## Planvisulaizer:
 Generiert eine grafische Darstellung der Lösung eines beliebigen Testplans
